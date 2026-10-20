@@ -73,6 +73,32 @@
       "previews": [
         "https://raw.githubusercontent.com/finall1008/xiaomi-backscreen-maimai-profile/0bcbb7af1760eb50eef82c6caa9c012913a4b282/previews/maimai-settings-preview.png"
       ]
+    },
+    {
+      "id": "dev.endfield.rearcard",
+      "name": "终末地 · 体力与立绘",
+      "version": "1.1.0",
+      "versionCode": 3,
+      "apiVersion": 2,
+      "description": "左右滑动查看森空岛国服体力、光荣之路与干员养成，支持放大自定义立绘、后台刷新和息屏快照。",
+      "author": "Endfield Rear Card",
+      "capabilities": [
+        "network",
+        "storage"
+      ],
+      "repository": "https://github.com/misakayuuki/rear-card-endfield",
+      "releaseUrl": "https://github.com/misakayuuki/rear-card-endfield/releases/tag/v1.1.0",
+      "downloadUrl": "https://github.com/misakayuuki/rear-card-endfield/releases/download/v1.1.0/endfield-rear-card-1.1.0.zip",
+      "tags": [
+        "游戏",
+        "终末地",
+        "森空岛"
+      ],
+      "previews": [
+        "https://raw.githubusercontent.com/misakayuuki/rear-card-endfield/v1.1.0/previews/card.png",
+        "https://raw.githubusercontent.com/misakayuuki/rear-card-endfield/v1.1.0/previews/glory.png",
+        "https://raw.githubusercontent.com/misakayuuki/rear-card-endfield/v1.1.0/previews/operators.png"
+      ]
     }
   ]
 }
